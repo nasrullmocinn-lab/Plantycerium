@@ -15,7 +15,7 @@ export default function Footer() {
           <div className="w-1/3 flex-col ml-16 mr-8">
             <BrandIcon />
             <p className="w-full text-lg text-gray-400 font-light">
-              platy botanica
+              platy-botanica
               {' '}
               <br />
               Is Our Calling
@@ -26,10 +26,10 @@ export default function Footer() {
               Office
             </h1>
             <p className="text-lg text-gray-400 font-light">
-              rac.hafidz@gmail.com
+              platyceriumbotanica@gmail.com
             </p>
             <p className="text-lg text-gray-400 font-light">
-              Klaten, Central Java, Indonesia
+              blitar, East Java, Indonesia
             </p>
           </div>
           <div className="w-1/3 ml-16 sm:ml-0 mt-0">
@@ -40,23 +40,23 @@ export default function Footer() {
               Instagram
             </Button>
             <Button href="https://www.linkedin.com/in/racmat-hafidz-89982a156/" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
-              LinkedIn
+              Tiktok
             </Button>
             <Button href="https://github.com/racmathafidz" type="link" target="_blank" className="flex text-lg text-gray-400 font-light hover:underline" isExternal>
-              Github
+              Location
             </Button>
           </div>
         </div>
         <div className="flex-col text-center mt-7">
           <p className="text-lg text-gray-400 font-light">
-            Copyright 2021 - All rights reserved - Racxstudio
+            Copyright 2021 - All rights reserved - Platy-Botanica
           </p>
           <div className="flex-row">
             <p className="inline-block text-lg text-gray-400 font-light">
               Made with &#x2764; by&nbsp;
             </p>
             <Button href="https://github.com/racmathafidz" type="link" target="_blank" className="text-lg text-theme-purple font-light" isExternal>
-              Racmat Hafidz Fadli
+              Platy-Botanica
             </Button>
           </div>
         </div>
