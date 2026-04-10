@@ -14,7 +14,7 @@
   },
   "plugins": ["react"],
   "rules": {
-    "linebreak-style": ["error", "windows"],
+    "linebreak-style": ["off"],
     "arrow-body-style": "off",
     "semi": ["error", "always"],
     "react/jsx-filename-extension": [
