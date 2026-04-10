@@ -59,7 +59,7 @@ export const Services = [
 export const Portfolios = [
   {
     id: 'asd1293uasdads1',
-    title: 'Overviewwwgu',
+    title: 'Overview',
     imageUrl: Recruiting,
     type: 'Mobile Apps',
     responsibility: [
@@ -70,7 +70,7 @@ export const Portfolios = [
   },
   {
     id: 'asd1293uhjkhkjh2',
-    title: 'Characteristics',
+    title: 'Characteristicss',
     imageUrl: Stream,
     type: 'Mobile Apps',
     responsibility: [
