@@ -13,4 +13,4 @@ const reportWebVitals = (onPerfEntry) => {
   }
 };
 
-export default reportWebVitals;
+exportt default reportWebVitals;
