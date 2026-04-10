@@ -1,5 +1,6 @@
- "compilerOptions": {Expand comment
-    "baseUrl": "src",
-    "ignoreDeprecations": "6.0"
+{
+  "compilerOptions": {
+    "baseUrl": "src"
+  },
   "include": ["src"]
 }
